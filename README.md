@@ -25,3 +25,20 @@ construccion de la carpeta css
 ![inicio](/img/inicio.png "inicio")
 resultado final del menu con html ,css, script
 ![final](/img/final.png "final")
+
+# Toggle
+tercer ejercicio don de nos explican como hacer un toggle
+iniciamos construyendo el codigo
+![togles](/img/togles.png "togles")
+luego empezamos a construir el css
+![gle](/img/gle.png "gle")
+finalizacion del codigo css y html
+![toglee](/img/toglee.png "toglee")
+
+# Darktheme
+cuarto ejercicio  es don de nos explican como elaborar un tema oscuro por medio del html y el css
+ ![cod](/img/cod.png "cod")
+ aqui tenemos parte del css donde ya podemos ver el boton que se utilizara para colocar el tema oscuro
+  ![color](/img/color.png "color")
+  aqui tenemos el resultado del css
+  ![coolor](/img/coolor.png "coolor")
