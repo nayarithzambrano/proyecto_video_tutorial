@@ -36,9 +36,20 @@ finalizacion del codigo css y html
 ![toglee](/img/toglee.png "toglee")
 
 # Darktheme
-cuarto ejercicio  es don de nos explican como elaborar un tema oscuro por medio del html y el css
+cuarto ejercicio  es donde nos explican como elaborar un tema oscuro por medio del html y el css
  ![cod](/img/cod.png "cod")
  aqui tenemos parte del css donde ya podemos ver el boton que se utilizara para colocar el tema oscuro
   ![color](/img/color.png "color")
   aqui tenemos el resultado del css
   ![coolor](/img/coolor.png "coolor")
+
+# Menu desplegable
+quinto ejercicio  es donde nos explican como hacer una menu desplegable por medio de html con lo diferentes medios de comunicacion para esta empresa
+    ![cood](/img/cood.png "cood")
+aqui es esta parte se esta construyendo el css para el menu desplegable
+  ![burge](/img/burge.png "burge")
+  
+la construccion del css sin la imagenes
+  ![bur](/img/bur.png "bur")
+construccion del css y html con las imagenes  
+  ![gesa](/img/gesa.png "gesa")
